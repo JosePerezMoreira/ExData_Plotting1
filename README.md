@@ -1,3 +1,14 @@
+## Solution
+
+Dear Evaluator,
+
+All the files for the solution of the problem are provided. 
+The original data has not been provided, since this would use
+unnecessary memory. But the file "LoadingData.R" contains the 
+code to download, unzip and read the data.
+
+Thank you and goodbye.
+
 ## Introduction
 
 This assignment uses data from
